@@ -1,0 +1,35 @@
+{
+  "name": "every-record-store",
+  "version": "1.0.0",
+  "description": "A static website reviewing record stores in NYC",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "record",
+    "vinyl",
+    "NYC",
+    "music"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/leaflet": "^1.9.8",
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.63",
+    "@types/react-dom": "^18.2.19",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^8.56.0",
+    "leaflet": "^1.9.4",
+    "next": "^13.5.6",
+    "postcss": "^8.4.35",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.3.3"
+  }
+}
